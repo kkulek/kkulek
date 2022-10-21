@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Krzysiek from Poland.
 #### Front-end developer with 10 years of experience in digital marketing.
 
-- 🔭 I’m currently working on ecommerce project.
-- 🌱 I’m currently learning React & medusajs.
+- 🌱 I’m currently learning styled-components.
 - 📫 How to reach me: kulka@duck.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkulek&show_icons=true&locale=en&layout=compact" alt="kkulek" /></p>
