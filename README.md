@@ -3,7 +3,7 @@
 
 #### Front-end developer with 10 years of experience in digital marketing.
 
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning NextJS, TypeScript, Astro.
 - 📫 How to reach me: kulka@duck.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkulek&show_icons=true&locale=en&layout=compact" alt="kkulek" /></p>
